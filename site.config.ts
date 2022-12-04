@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Xiaohe X',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Xiaohe Page',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
   github: 'Jakexxh',
-  //linkedin: 'fisch2',
+  linkedin: 'xiaohe-xue-50874313a',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
