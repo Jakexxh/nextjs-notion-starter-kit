@@ -252,9 +252,13 @@ export const NotionPage: React.FC<types.PageProps> = ({
           recordMap.block[key].value.properties.language[0][0] = 'Fsharp'
         }
       console.log(recordMap.block[key].value)
-      } catch (_){}
+      } catch (_){
+      // continue regardless of error
+      }
     })
-  } catch (_) {}
+  } catch (_) {
+    // continue regardless of error
+  }
 
   return (
     <>
